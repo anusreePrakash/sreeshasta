@@ -1,0 +1,15 @@
+.appoinment_container h1 {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+.appoinment_container {
+ background: rgba(0,0,0,0.5);
+ height: 90vh;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.control-label {
+  color: white;
+}

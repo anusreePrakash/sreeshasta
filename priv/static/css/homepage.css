@@ -1,0 +1,35 @@
+<head>
+  <style>
+
+    #homepage {
+
+    }
+
+    #book_online_button {
+      border-radius: 0;
+      border-width: 0;
+      position: absolute;
+      z-index: 1;
+      right: 0;
+      width: 20%;
+      height: 6vh;
+      background: rgba(0,0,0,0.5);
+      margin-top: 3px;
+      margin-right: 3px;
+      color: white;
+      font-size: 1.9vw;
+      font-family: sans-serif;
+      padding-right: 20;
+      text-align: center;
+
+    }
+
+    body{
+      background-image: url(/images/spa_background.jpg);
+      background-clip: content-box;
+      background-size:cover;
+      background-repeat: repeat;
+    }
+
+  </style>
+</head>
